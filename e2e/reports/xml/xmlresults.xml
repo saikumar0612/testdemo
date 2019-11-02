@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="12" time="33.786">
+ <testsuite name="Code for angular project" timestamp="2019-10-29T21:46:11" hostname="localhost" time="33.786" errors="0" tests="12" skipped="0" disabled="0" failures="0">
+  <testcase classname="Code for angular project" name="open the browser" time="6.423" />
+  <testcase classname="Code for angular project" name="click on registeration" time="4.907" />
+  <testcase classname="Code for angular project" name="Enter the firstname" time="1.608" />
+  <testcase classname="Code for angular project" name="Enter the lastname" time="1.061" />
+  <testcase classname="Code for angular project" name="Enter the loginname" time="1.034" />
+  <testcase classname="Code for angular project" name="Enter the loginpassword" time="1.096" />
+  <testcase classname="Code for angular project" name="click for registeration" time="3.906" />
+  <testcase classname="Code for angular project" name="Enter the userloginname" time="1.112" />
+  <testcase classname="Code for angular project" name="Enter the userloginpassword" time="1.17" />
+  <testcase classname="Code for angular project" name="click for userlogin" time="3.843" />
+  <testcase classname="Code for angular project" name="click for delete user" time="3.808" />
+  <testcase classname="Code for angular project" name="click for logoutuser" time="3.804" />
+ </testsuite>
+</testsuites>
